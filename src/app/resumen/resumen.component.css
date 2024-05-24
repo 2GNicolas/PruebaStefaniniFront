@@ -1,0 +1,13 @@
+.boton-volver {
+  color: #ffffff;
+  background-color: #1C00F5;
+  border-color: #1C00F5;
+  font-weight: bold;
+  border-radius: 5rem;
+  height: 2.5rem;
+  
+  }
+.label-personalizado {
+    color: grey;
+     font-size: small; 
+  }

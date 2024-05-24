@@ -1,0 +1,17 @@
+.boton-personalizado {
+  color: #ffffff;
+  background-color: #1C00F5;
+  border-color: #1C00F5;
+  font-weight: bold;
+  border-radius: 5rem;
+  height: 2.5rem;
+  
+  }
+.boton-personalizado:disabled{
+  background: rgb(220, 220, 220);
+  border-color: rgb(220, 220, 220);
+}
+.label-personalizado {
+    color: #1C00F5;
+    font-size: small;
+  }
